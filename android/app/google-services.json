@@ -12,7 +12,20 @@
           "package_name": "com.example.pay_flow"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "513466562597-6sr1sotmfh2ood0hk6k1q0e0301ijmkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pay_flow",
+            "certificate_hash": "4ceea97bb2ad911e20314bcbd30d68d3b51c1049"
+          }
+        },
+        {
+          "client_id": "513466562597-ghso05pedlsh8ec0rk65nb879eh05443.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBKPyQjkzgr-q6ofHNFqwOsRv8gB77RWzM"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513466562597-ghso05pedlsh8ec0rk65nb879eh05443.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513466562597-bnq7ftk7g5q203h62q8vgqkinblldon3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.payFlow.RunnerTests"
+              }
+            }
+          ]
         }
       }
     }

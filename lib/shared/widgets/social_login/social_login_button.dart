@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:pay_flow/shared/themes/app_colors.dart';
-import 'package:pay_flow/shared/themes/app_images.dart';
-import 'package:pay_flow/shared/themes/app_text_styles.dart';
+
+import '../../themes/app_colors.dart';
+import '../../themes/app_images.dart';
+import '../../themes/app_text_styles.dart';
 
 class SocialLoginButton extends StatelessWidget {
   final VoidCallback onTap;
